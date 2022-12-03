@@ -1,0 +1,3 @@
+@import "desktop.css";
+@import "tablette.css" (max-width: 1261px);
+@import "mobile.css" (max-width: 890px);
